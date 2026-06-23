@@ -32,20 +32,6 @@
 
 <br/>
 
-```javascript
-const indresh = {
-  name       : "Indresh Harshan J P",
-  role       : "Full Stack Developer (MERN)",
-  college    : "Excel Engineering College, Salem, TN",
-  batch      : "2023 – 2027",
-  stack      : ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io"],
-  currentFocus: ["BloodLink 🩸", "Real-time Apps", "Placement Prep 🎯"],
-  openTo     : ["Bengaluru", "Chennai", "Hyderabad"],
-  passion    : "Building products that solve real problems 🔥",
-  funFact    : "I debug with console.log and I'm not ashamed 😄"
-};
-```
-
 <br clear="right"/>
 
 <div align="center">
