@@ -1,50 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Indresh%20Harshan%20J%20P&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Builder&descAlignY=65&descSize=17&animation=fadeIn&fontAlign=35&descAlign=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:0f0c29&height=250&section=header&text=Indresh%20Harshan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br/>
 
-<!-- Animated hand wave -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
-
-<!-- Glowing name banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=9999&color=A78BFA&center=true&vCenter=true&width=600&lines=INDRESH+HARSHAN+J+P" alt="Name Banner" />
-
-<br/>
-
-<!-- Role typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Indresh+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%92%BB;Real-time+App+Builder+with+Socket.io+%F0%9F%9A%80;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+%40+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+in+BLR+%7C+CHN+%7C+HYD+%F0%9F%8E%AF;Turning+ideas+into+products+%F0%9F%94%A5)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social badges with animation -->
-<a href="https://www.linkedin.com/in/indreshharshan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/indreshharshan">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:indreshharshan26@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Indresh+👋;Full+Stack+MERN+Developer+💻;Building+Real+World+Products+🚀;AI+%26+SaaS+Application+Explorer+🤖" />
 
 <br/><br/>
 
-<!-- Animated metrics row -->
-![Profile Views](https://komarev.com/ghpvc/?username=indreshharshan&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/indreshharshan?label=🤝%20Followers&style=flat-square&color=7c3aed)](https://github.com/indreshharshan)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-SDE%20Roles-brightgreen?style=flat-square)
+
+<a href="https://github.com/indreshharshan">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/indreshharshan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=indreshharshan&style=for-the-badge&color=blueviolet"/>
+
 
 <br/>
 
-<!-- Animated banner bottom strip -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="80%"/>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/line.gif"/>
 
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🧠 About Me
 
