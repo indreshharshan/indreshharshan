@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Indresh%20Harshan%20J%20P&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Indresh+%F0%9F%91%8B;Full+Stack+MERN+Developer;Real-time+App+Builder+%F0%9F%9A%80;CSE+Student+%40+Excel+Engineering+College;Turning+ideas+into+products+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Indresh+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%92%BB;Real-time+App+Builder+with+Socket.io+%F0%9F%9A%80;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+Student+%40+Excel+Engineering+College;Open+to+SDE+Roles+in+BLR+%7C+CHN+%7C+HYD+%F0%9F%8E%AF;Turning+ideas+into+products+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,19 +16,49 @@
 
 ## 🧠 About Me
 
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+<br/>
+
+🎓 &nbsp;**CSE Student** @ Excel Engineering College, Salem, TN *(2023 – 2027)*
+
+💻 &nbsp;**Full Stack Developer** specializing in the **MERN Stack** with practical experience in designing and developing **scalable, responsive, and user-centric** web applications using JavaScript, React.js, Node.js, Express.js, and MongoDB.
+
+⚙️ &nbsp;Proficient in building **end-to-end solutions** — from RESTful API development and database management to clean, maintainable frontend architecture — following **clean coding practices** and solid software design principles.
+
+🧩 &nbsp;Strong **problem-solving skills**, a passion for **continuous learning**, and a commitment to delivering **high-quality software solutions** that make a real impact.
+
+📍 &nbsp;Currently seeking **full-time Software Engineer** opportunities in **Bengaluru · Chennai · Hyderabad** to contribute technical expertise and grow within a dynamic development team.
+
+<br/>
+
 ```javascript
 const indresh = {
-  name: "Indresh Harshan J P",
-  role: "Full Stack Developer (MERN)",
-  college: "Excel Engineering College, Salem, TN",
-  batch: "2023 – 2027",
-  currentFocus: ["BloodLink 🩸", "Real-time Apps", "Placement Prep"],
-  passion: "Building products that actually solve real problems",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+  name       : "Indresh Harshan J P",
+  role       : "Full Stack Developer (MERN)",
+  college    : "Excel Engineering College, Salem, TN",
+  batch      : "2023 – 2027",
+  stack      : ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io"],
+  currentFocus: ["BloodLink 🩸", "Real-time Apps", "Placement Prep 🎯"],
+  openTo     : ["Bengaluru", "Chennai", "Hyderabad"],
+  passion    : "Building products that solve real problems 🔥",
+  funFact    : "I debug with console.log and I'm not ashamed 😄"
 };
 ```
 
----
+<br clear="right"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=indreshharshan&label=Profile%20Views&color=7c3aed&style=flat-square)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/indreshharshan?label=Followers&style=flat-square&color=7c3aed)](https://github.com/indreshharshan)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-SDE%20Roles-brightgreen?style=flat-square)
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🚀 Projects
 
@@ -69,7 +99,7 @@ const indresh = {
   </tr>
 </table>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🛠️ Tech Stack
 
@@ -99,24 +129,44 @@ const indresh = {
 
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=indreshharshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indreshharshan&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=indreshharshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indreshharshan&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=indreshharshan&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=indreshharshan&theme=tokyonight&hide_border=false&border_radius=10)
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=indreshharshan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution Activity
+
+[![Indresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=indreshharshan&theme=tokyo-night&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🐍 Contribution Graph
 
@@ -146,14 +196,26 @@ const indresh = {
 
 ---
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
+
 <div align="center">
 
-### 💬 Let's Connect!
+### 💬 Let's Connect & Build Something Amazing!
 
-*"Code is not just syntax — it's the solution to someone's problem."*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indreshharshan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indreshharshan/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indreshharshan)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indreshharshan26@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=%22Code+is+not+just+syntax+—+it's+a+solution+to+someone's+problem.%22;Always+learning.+Always+building.+Always+improving.+🚀;Open+to+SDE+Opportunities+in+BLR+%7C+CHN+%7C+HYD+🎯)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a78bfa&fontAlignY=70&animation=fadeIn" />
 
 </div>
