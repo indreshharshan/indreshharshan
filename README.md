@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I'm+Indresh+Harshan;Full+Stack+MERN+Developer+💻;Real-time+App+Builder+with+Socket.io+🚀;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+%40+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+—+BLR+%7C+CHN+%7C+HYD+🎯;Turning+ideas+into+shipped+products+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I'm+Indresh+Harshan;Full+Stack+MERN+Developer+💻;Real-time+App+Developer+with+Socket.io+🚀;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+%40+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+—+BLR+%7C+CHN+%7C+HYD+🎯;Turning+ideas+into+shipped+products+🔥)](https://git.io/typing-svg)
 
 <br/>
 
