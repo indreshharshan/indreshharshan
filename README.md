@@ -1,18 +1,15 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Indresh%20Harshan%20J%20P&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Indresh+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%92%BB;Real-time+App+Builder+with+Socket.io+%F0%9F%9A%80;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+Student+%40+Excel+Engineering+College;Open+to+SDE+Roles+in+BLR+%7C+CHN+%7C+HYD+%F0%9F%8E%AF;Turning+ideas+into+products+%F0%9F%94%A5)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Indresh%20Harshan%20J%20P&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Builder&descAlignY=65&descSize=17&animation=fadeIn&fontAlign=35&descAlign=35" />
+<br/>
+Show Image
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indreshharshan/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/indreshharshan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indreshharshan26@gmail.com)
+Show Image
+Show Image
+Show Image
 
 </div>
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🧠 About Me
 
