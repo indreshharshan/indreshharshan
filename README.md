@@ -51,40 +51,73 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🛍️ Shopper AI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
+      </p>
+      <p>E-commerce platform with <strong>AI Recommendations</strong>, <strong>AR Product Visualization</strong>, Smart Chatbot, and an Admin Dashboard.</p>
+      <p align="center">
+        <a href="https://shopper-user.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Shopper-a78bfa?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">✂️ Trimly — Salon Booking</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Stack-MERN-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
+      </p>
+      <p>Full-stack <strong>Beauty Service Booking</strong> platform with User App, Provider Dashboard & Admin Panel. Deployed & production-ready.</p>
+      <p align="center">
+        <a href="https://trimly-user.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Trimly-a78bfa?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📈 Stock Signalist</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
+      </p>
+      <p>Stock market signal tracker with live data insights, clean UI, and analytics dashboard to help users make informed decisions.</p>
+      <p align="center">
+        <a href="https://stock-signalist.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Stock%20Signalist-a78bfa?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧭 Gypsy Compass</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
+      </p>
+      <p>A travel discovery platform designed for wanderers — explore destinations, plan routes, and find hidden gems effortlessly.</p>
+      <p align="center">
+        <a href="https://gypsycompass.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Gypsy%20Compass-a78bfa?style=for-the-badge" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
       <h3 align="center">🩸 BloodLink</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
         <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Socket.io-blueviolet?style=flat-square" />
       </p>
-      <p>Real-time <strong>Blood Donor Finder</strong> platform with role-based access for <strong>Donors</strong>, <strong>Hospitals</strong>, and <strong>Admins</strong>. Live request tracking using Socket.io.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">✂️ Trimly</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live%20%F0%9F%9F%A2-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
-      </p>
-      <p>Full-stack <strong>Beauty Service Booking</strong> platform with User App, Provider Dashboard & Admin Panel. Deployed & production-ready.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛍️ Shopper AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-blue?style=flat-square" />
-      </p>
-      <p>E-commerce platform with <strong>AI Recommendations</strong>, <strong>AR Product Visualization</strong>, Smart Chatbot, and an Admin Dashboard.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">👗 LUXE</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Stack-Express%20%2B%20MongoDB-green?style=flat-square" />
-      </p>
-      <p>Luxury fashion e-commerce site with a premium UI using <strong>Vanilla HTML/CSS/JS</strong> frontend and <strong>Express + MongoDB</strong> backend.</p>
+      <p align="center">Real-time <strong>Blood Donor Finder</strong> platform with role-based access for <strong>Donors</strong>, <strong>Hospitals</strong>, and <strong>Admins</strong>. Live request tracking using Socket.io. <em>(Coming soon 🚧)</em></p>
     </td>
   </tr>
 </table>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🛠️ Tech Stack
