@@ -13,11 +13,6 @@
 <a href="mailto:indreshharshan26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=indreshharshan&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square)&nbsp;
-[![Followers](https://img.shields.io/github/followers/indreshharshan?label=🤝%20Followers&style=flat-square&color=7c3aed)](https://github.com/indreshharshan)&nbsp;
-![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-SDE%20Roles-brightgreen?style=flat-square)
-
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
@@ -37,20 +32,6 @@
 📍 &nbsp;Currently seeking **full-time Software Engineer** opportunities in **Bengaluru · Chennai · Hyderabad** to contribute technical expertise and grow within a dynamic development team.
 
 <br/>
-
-```javascript
-const indresh = {
-  name        : "Indresh Harshan J P",
-  role        : "Full Stack Developer (MERN)",
-  college     : "Excel Engineering College, Salem, TN",
-  batch       : "2023 – 2027",
-  stack       : ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io"],
-  currentFocus: ["BloodLink 🩸", "Real-time Apps", "Placement Prep 🎯"],
-  openTo      : ["Bengaluru", "Chennai", "Hyderabad"],
-  passion     : "Building products that solve real problems 🔥",
-  funFact     : "I debug with console.log and I'm not ashamed 😄"
-};
-```
 
 <br clear="right"/>
 
@@ -272,9 +253,6 @@ Real-time **Blood Donor Finder** with role-based portals for Donors, Hospitals &
 
 <br/>
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=indreshharshan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br/>
 
 ### 📈 Contribution Activity
@@ -284,35 +262,6 @@ Real-time **Blood Donor Finder** with role-based portals for Donors, Hospitals &
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/indreshharshan/indreshharshan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
-
-## 💼 Experience
-
-<details>
-<summary><b>🏢 Click to expand Work Experience</b></summary>
-
-<br/>
-
-**🔹 Full Stack Developer (Projects)**
-> Excel Engineering College · 2023 – Present
-- Built and deployed multiple MERN stack applications
-- Implemented real-time features using Socket.io
-- Developed role-based access control systems
-- Focused on clean UI/UX with Tailwind CSS
-
-</details>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
-
-<div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing!
 
