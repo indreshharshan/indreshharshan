@@ -1,14 +1,49 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Indresh%20Harshan%20J%20P&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Builder&descAlignY=65&descSize=17&animation=fadeIn&fontAlign=35&descAlign=35" />
-<br/>
-Show Image
 
 <br/>
-Show Image
-Show Image
-Show Image
+
+<!-- Animated hand wave -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" />
+
+<!-- Glowing name banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&pause=9999&color=A78BFA&center=true&vCenter=true&width=600&lines=INDRESH+HARSHAN+J+P" alt="Name Banner" />
+
+<br/>
+
+<!-- Role typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Indresh+%F0%9F%91%8B;Full+Stack+MERN+Developer+%F0%9F%92%BB;Real-time+App+Builder+with+Socket.io+%F0%9F%9A%80;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+%40+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+in+BLR+%7C+CHN+%7C+HYD+%F0%9F%8E%AF;Turning+ideas+into+products+%F0%9F%94%A5)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Social badges with animation -->
+<a href="https://www.linkedin.com/in/indreshharshan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/indreshharshan">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:indreshharshan26@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- Animated metrics row -->
+![Profile Views](https://komarev.com/ghpvc/?username=indreshharshan&label=👁️%20Profile%20Views&color=7c3aed&style=flat-square)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/indreshharshan?label=🤝%20Followers&style=flat-square&color=7c3aed)](https://github.com/indreshharshan)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20to%20Work-SDE%20Roles-brightgreen?style=flat-square)
+
+<br/>
+
+<!-- Animated banner bottom strip -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a78bfa&height=3&section=header" width="80%"/>
 
 </div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🧠 About Me
@@ -29,6 +64,20 @@ Show Image
 
 <br/>
 
+```javascript
+const indresh = {
+  name       : "Indresh Harshan J P",
+  role       : "Full Stack Developer (MERN)",
+  college    : "Excel Engineering College, Salem, TN",
+  batch      : "2023 – 2027",
+  stack      : ["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io"],
+  currentFocus: ["BloodLink 🩸", "Real-time Apps", "Placement Prep 🎯"],
+  openTo     : ["Bengaluru", "Chennai", "Hyderabad"],
+  passion    : "Building products that solve real problems 🔥",
+  funFact    : "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
 <br clear="right"/>
 
 <div align="center">
@@ -45,76 +94,142 @@ Show Image
 
 ## 🚀 Projects
 
+<!-- ═══════════════ SHOPPER AI — BLUE/CYAN THEME ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=6&section=header" width="100%"/>
+
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🛍️ Shopper AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20AI-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
-      </p>
-      <p>E-commerce platform with <strong>AI Recommendations</strong>, <strong>AR Product Visualization</strong>, Smart Chatbot, and an Admin Dashboard.</p>
-      <p align="center">
-        <a href="https://shopper-user.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Shopper-a78bfa?style=for-the-badge" />
-        </a>
-      </p>
+    <td width="8%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=120&text=🛍️&fontSize=50" width="80px"/>
     </td>
-    <td width="50%">
-      <h3 align="center">✂️ Trimly — Salon Booking</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-MERN-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
+    <td>
+      <h3>🛍️ Shopper AI &nbsp;<img src="https://img.shields.io/badge/Live-🟢-00d4ff?style=flat-square&labelColor=0f2027" /></h3>
+      <p>AI-powered e-commerce with <strong>smart recommendations</strong>, <strong>AR product visualization</strong>, chatbot & admin panel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20%2B%20AR-00d4ff?style=flat-square" />
       </p>
-      <p>Full-stack <strong>Beauty Service Booking</strong> platform with User App, Provider Dashboard & Admin Panel. Deployed & production-ready.</p>
-      <p align="center">
-        <a href="https://trimly-user.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Trimly-a78bfa?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📈 Stock Signalist</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
-      </p>
-      <p>Stock market signal tracker with live data insights, clean UI, and analytics dashboard to help users make informed decisions.</p>
-      <p align="center">
-        <a href="https://stock-signalist.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Stock%20Signalist-a78bfa?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧭 Gypsy Compass</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Live%20🟢-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel" />
-      </p>
-      <p>A travel discovery platform designed for wanderers — explore destinations, plan routes, and find hidden gems effortlessly.</p>
-      <p align="center">
-        <a href="https://gypsycompass.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Gypsy%20Compass-a78bfa?style=for-the-badge" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
-      <h3 align="center">🩸 BloodLink</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20Socket.io-blueviolet?style=flat-square" />
-      </p>
-      <p align="center">Real-time <strong>Blood Donor Finder</strong> platform with role-based access for <strong>Donors</strong>, <strong>Hospitals</strong>, and <strong>Admins</strong>. Live request tracking using Socket.io. <em>(Coming soon 🚧)</em></p>
+      <a href="https://shopper-user.vercel.app/">
+        <img src="https://img.shields.io/badge/🔗%20Live%20Demo-2c5364?style=for-the-badge&logo=vercel&logoColor=00d4ff" />
+      </a>
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=6&section=footer" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════ TRIMLY — PINK/ROSE THEME ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3d0030,50:7b1450,100:c2185b&height=6&section=header" width="100%"/>
+
+<table>
+  <tr>
+    <td width="8%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3d0030,50:7b1450,100:c2185b&height=120&text=✂️&fontSize=50" width="80px"/>
+    </td>
+    <td>
+      <h3>✂️ Trimly — Salon Booking &nbsp;<img src="https://img.shields.io/badge/Live-🟢-ff4d9e?style=flat-square&labelColor=3d0030" /></h3>
+      <p>Full-stack <strong>beauty service booking</strong> platform — User App, Provider Dashboard & Admin Panel. Deployed & production-ready.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express.js-c2185b?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Role--Based%20Auth-ff4d9e?style=flat-square" />
+      </p>
+      <a href="https://trimly-user.vercel.app/">
+        <img src="https://img.shields.io/badge/🔗%20Live%20Demo-3d0030?style=for-the-badge&logo=vercel&logoColor=ff4d9e" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3d0030,50:7b1450,100:c2185b&height=6&section=footer" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════ STOCK SIGNALIST — GREEN/GOLD THEME ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2e0a,50:1b5e20,100:f9a825&height=6&section=header" width="100%"/>
+
+<table>
+  <tr>
+    <td width="8%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2e0a,50:1b5e20,100:f9a825&height=120&text=📈&fontSize=50" width="80px"/>
+    </td>
+    <td>
+      <h3>📈 Stock Signalist &nbsp;<img src="https://img.shields.io/badge/Live-🟢-00e676?style=flat-square&labelColor=0a2e0a" /></h3>
+      <p>Stock market <strong>signal tracker</strong> with live data insights, analytics dashboard, and smart buy/sell indicators.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Charts-f9a825?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live%20Data-00e676?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel" />
+      </p>
+      <a href="https://stock-signalist.vercel.app">
+        <img src="https://img.shields.io/badge/🔗%20Live%20Demo-0a2e0a?style=for-the-badge&logo=vercel&logoColor=00e676" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a2e0a,50:1b5e20,100:f9a825&height=6&section=footer" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════ GYPSY COMPASS — ORANGE/AMBER THEME ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,50:7c3500,100:ff6f00&height=6&section=header" width="100%"/>
+
+<table>
+  <tr>
+    <td width="8%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,50:7c3500,100:ff6f00&height=120&text=🧭&fontSize=50" width="80px"/>
+    </td>
+    <td>
+      <h3>🧭 Gypsy Compass &nbsp;<img src="https://img.shields.io/badge/Live-🟢-ff6f00?style=flat-square&labelColor=1a0a00" /></h3>
+      <p>Travel discovery platform for wanderers — <strong>explore destinations</strong>, plan routes, and find hidden gems effortlessly.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Maps%20API-ff6f00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Travel%20UX-ffab40?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel" />
+      </p>
+      <a href="https://gypsycompass.vercel.app">
+        <img src="https://img.shields.io/badge/🔗%20Live%20Demo-1a0a00?style=for-the-badge&logo=vercel&logoColor=ff6f00" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,50:7c3500,100:ff6f00&height=6&section=footer" width="100%"/>
+
+<br/>
+
+<!-- ═══════════════ BLOODLINK — RED/DARK THEME ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:7f0000,100:d32f2f&height=6&section=header" width="100%"/>
+
+<table>
+  <tr>
+    <td width="8%" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:7f0000,100:d32f2f&height=120&text=🩸&fontSize=50" width="80px"/>
+    </td>
+    <td>
+      <h3>🩸 BloodLink &nbsp;<img src="https://img.shields.io/badge/Status-In%20Progress%20🚧-orange?style=flat-square&labelColor=1a0000" /></h3>
+      <p>Real-time <strong>Blood Donor Finder</strong> with role-based access for <strong>Donors</strong>, <strong>Hospitals</strong> & <strong>Admins</strong>. Live tracking via Socket.io.</p>
+      <p>
+        <img src="https://img.shields.io/badge/MERN-d32f2f?style=flat-square" />
+        <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io" />
+        <img src="https://img.shields.io/badge/Real--time-ff5252?style=flat-square" />
+        <img src="https://img.shields.io/badge/Role--Based%20Auth-d32f2f?style=flat-square" />
+      </p>
+      <img src="https://img.shields.io/badge/🔗%20Coming%20Soon...-1a0000?style=for-the-badge&logoColor=d32f2f" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:7f0000,100:d32f2f&height=6&section=footer" width="100%"/>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
 ## 🛠️ Tech Stack
@@ -166,6 +281,15 @@ Show Image
 
 <div align="center">
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=indreshharshan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<div align="center">
 
 ### 📈 Contribution Activity
 
@@ -175,6 +299,35 @@ Show Image
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/indreshharshan/indreshharshan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
+
+## 💼 Experience
+
+<details>
+<summary><b>🏢 Click to expand Work Experience</b></summary>
+
+<br/>
+
+**🔹 Full Stack Developer (Projects)**
+> Excel Engineering College · 2023 – Present
+- Built and deployed multiple MERN stack applications
+- Implemented real-time features using Socket.io
+- Developed role-based access control systems
+- Focused on UI/UX with Tailwind CSS
+
+</details>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
+
+<div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing!
 
@@ -188,10 +341,10 @@ Show Image
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=%22Code+is+not+just+syntax+—+it's+a+solution+to+someone's+problem.%22;Always+learning.+Always+building.+Always+improving.+🚀;Open+to+SDE+Opportunities+in+BLR+%7C+CHN+%7C+HYD+🎯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=650&lines=%22Code+is+not+just+syntax+—+it's+a+solution+to+someone's+problem.%22;Always+learning.+Always+building.+Always+improving.+🚀;Open+to+SDE+Opportunities+in+BLR+%7C+CHN+%7C+HYD+🎯)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=a78bfa&fontAlignY=70&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=a78bfa&fontAlignY=68&fontAlign=65&animation=fadeIn&reversal=true" />
 
 </div>
