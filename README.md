@@ -136,15 +136,6 @@
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=indreshharshan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<div align="center">
 
 ### 📈 Contribution Activity
 
@@ -154,37 +145,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/indreshharshan/indreshharshan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💼 Experience
-
-<details>
-<summary><b>🏢 Click to expand Work Experience</b></summary>
-
-<br/>
-
-**🔹 Full Stack Developer (Projects)**
-> Excel Engineering College · 2023 – Present
-- Built and deployed multiple MERN stack applications
-- Implemented real-time features using Socket.io
-- Developed role-based access control systems
-- Focused on UI/UX with Tailwind CSS
-
-</details>
-
----
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
-
-<div align="center">
 
 ### 💬 Let's Connect & Build Something Amazing!
 
