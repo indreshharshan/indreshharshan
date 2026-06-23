@@ -1,15 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Indresh%20Harshan%20J%20P&fontSize=46&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Builder&descAlignY=65&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Indresh%20Harshan%20J%20P&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=9999&color=A78BFA&center=true&vCenter=true&width=550&lines=INDRESH+HARSHAN+J+P" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer+%F0%9F%92%BB;Real-time+App+Builder+with+Socket.io+%F0%9F%9A%80;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+%40+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+%E2%80%94+BLR+%7C+CHN+%7C+HYD+%F0%9F%8E%AF;Turning+ideas+into+shipped+products+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I'm+Indresh+Harshan;Full+Stack+MERN+Developer+💻;Real-time+App+Builder+with+Socket.io+🚀;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+%40+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+—+BLR+%7C+CHN+%7C+HYD+🎯;Turning+ideas+into+shipped+products+🔥)](https://git.io/typing-svg)
 
 <br/>
 
@@ -333,6 +328,6 @@ Real-time **Blood Donor Finder** with role-based portals for Donors, Hospitals &
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
 
 </div>
