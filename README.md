@@ -1,21 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Indresh%20Harshan%20J%20P&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Developer&descAlignY=60&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Indresh%20Harshan%20J%20P&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👋+Hey+there!+I'm+Indresh+Harshan;Full+Stack+MERN+Developer+💻;Real-time+App+Developer+with+Socket.io+🚀;RESTful+API+%7C+MongoDB+%7C+React.js;CSE+%40+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+—+BLR+%7C+CHN+%7C+HYD+🎯;Turning+ideas+into+shipped+products+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Building+Real-time+Applications+with+Socket.io;RESTful+APIs+%7C+MongoDB+%7C+React.js;CSE+Student+at+Excel+Engineering+College%2C+Salem;Open+to+SDE+Roles+%E2%80%94+Bengaluru+%7C+Chennai+%7C+Hyderabad)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/indreshharshan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/indreshharshan"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="mailto:indreshharshan26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/indreshharshan/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/indreshharshan">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:indreshharshan26@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
 <br/><br/>
-</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px" />
+
+</div>
 
 ## 🧠 About Me
 
